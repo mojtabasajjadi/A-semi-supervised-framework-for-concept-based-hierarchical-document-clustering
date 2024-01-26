@@ -15,4 +15,4 @@ Text clustering is used in various applications of text analysis. In the cluster
 <br>
 
 <img src="https://github.com/mojtabasajjadi/A-semi-supervised-framework-for-concept-based-hierarchical-document-clustering/blob/main/Fig1.jpg?raw=true" alt="Italian Trulli">
-![alt text](https://github.com/mojtabasajjadi/A-semi-supervised-framework-for-concept-based-hierarchical-document-clustering/blob/main/Fig1.jpg?raw=true)
+
